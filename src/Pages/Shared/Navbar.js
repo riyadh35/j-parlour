@@ -10,7 +10,7 @@ const Navbar = () => {
                 <img className='w-32' src={logo} alt="" />
             </div>
             <div className="navbar-center hidden lg:flex">
-                <ul className="menu menu-horizontal px-1 text-black font-normal">
+                <ul className="menu menu-horizontal px-1 text-black font-medium">
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/portfolio'>Our Portfolio</Link></li>
                     <li><Link to='/ourTeam'>Our Team</Link></li>
