@@ -10,6 +10,7 @@ function App() {
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
+        <Route path='login'></Route>
       </Routes>
     </div>
   );

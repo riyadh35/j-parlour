@@ -9,7 +9,7 @@ const Banner2 = () => {
                 <div className='ml-9'>
                     <h1 className="text-5xl font-bold">Let us handle your <br /> screen <span style={{ color: '#F63E7B' }} >Professionally.</span></h1>
                     <p className="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat <br /> ut assumenda excepturi exercitationem quasi. In deleniti <br /> eaque aut repudiandae et a id nisi.</p>
-                    <div className='hero-content lg:flex-row'>
+                    <div className="card-actions justify-start ml-5">
                         <div>
                             <h1 style={{ color: '#F63E7B' }} className='font-bold text-4xl'>500+</h1>
                             <h3 className='font-semibold'>Happy Customer</h3>

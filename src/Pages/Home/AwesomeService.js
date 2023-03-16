@@ -13,7 +13,7 @@ const AwesomeService = () => {
                 <ServiceBanner about="With well written codes, we build amazing apps for all platforms, mobile and web apps in general." cardTitle="Skin Care Treatment" price="$199" img={makeup3}></ServiceBanner>
             </div>
             <div className=' text-center pb-9 mt-9'>
-                <button id='botton' className='text-bold p-2 text-2xl rounded-md text-white'>Explore more</button>
+                <button className='text-bold p-2 text-2xl rounded-md text-white'>Explore more</button>
             </div>
         </div>
     );
