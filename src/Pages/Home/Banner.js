@@ -7,7 +7,7 @@ const Banner = () => {
         <div>
             <div className="hero min-h-screen">
                 <div className="hero-content flex-col lg:flex-row-reverse mb-7 ">
-                    <img src={asian} alt='' className="max-w-sm rounded-lg shadow-2xl" />
+                    <img src={asian} alt='' className="max-w-sm rounded-lg" />
                     <div className='text-black '>
                         <h1 className="text-5xl font-bold">BEAUTY SALON <br />
                             FOR EVERY WOMEN</h1>
