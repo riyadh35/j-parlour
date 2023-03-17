@@ -18,7 +18,9 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a href='#' id='botton' className="btn primary text-white w-32">Login</a>
+                <ul>
+                    <li><Link to='/login' id='botton' className="btn primary text-white w-32">Login</Link></li>
+                </ul>
             </div>
         </div>
     );
